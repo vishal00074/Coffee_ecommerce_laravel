@@ -1,0 +1,289 @@
+[03-Oct-2023 10:58:13 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:16 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:18 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:21 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 10:58:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:07:29 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:07:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:07:30 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:07:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:11:22 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:11:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:11:23 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:11:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:18:37 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:54 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:56 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:57 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:57 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:26:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:27:41 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:27:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:29:00 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/server.php on line 34
+[03-Oct-2023 11:29:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/server.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/server.php on line 34
+[03-Oct-2023 11:29:30 UTC] PHP Warning:  require(/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[03-Oct-2023 11:29:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a290120s/public_html/coffee.sbwares.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/a290120s/public_html/coffee.sbwares.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a290120s/public_html/coffee.sbwares.com/index.php on line 34
+[06-Oct-2023 09:49:24 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:49:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:912
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(912): ReflectionClass->__construct()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:914
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 914
+[06-Oct-2023 09:49:30 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:49:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:912
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(912): ReflectionClass->__construct()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:914
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 914
+[06-Oct-2023 09:49:52 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:49:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:912
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(912): ReflectionClass->__construct()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:914
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 914
+[06-Oct-2023 09:49:56 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:50:03 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:51:02 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:51:06 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:51:14 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:52:55 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $exception) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:52:55 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:912
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(912): ReflectionClass->__construct()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:914
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 914
+[06-Oct-2023 09:52:57 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $exception) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[06-Oct-2023 09:52:57 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:912
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(912): ReflectionClass->__construct()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php:914
+Stack trace:
+#0 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#1 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#2 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(297): Illuminate\Foundation\Application->resolve()
+#3 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(908): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#4 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->build()
+#5 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(937): Illuminate\Container\Container->resolve()
+#6 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Foundation\Application->resolve()
+#7 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(922): Illuminate\Container\Container->make()
+#8 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(287): Illuminate\Foundation\Application->make()
+#9 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(206): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(188): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#11 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(230): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 914
+[06-Oct-2023 09:53:00 UTC] PHP Fatal error:  Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $exception) and Illuminate\Foundation\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Exceptions/Handler.php on line 32
+[10-Oct-2023 09:06:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 937
+[10-Oct-2023 09:06:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 937
+[10-Oct-2023 09:06:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 937
+[10-Oct-2023 09:06:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/n170823s/public_html/cbdandcoffee.co.uk/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 937
+[10-Oct-2023 09:22:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\WebAdminController::UpdateFeature() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/Admin/WebAdminController.php on line 272
+[10-Oct-2023 10:15:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\WebAdminController::DeleteType() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/Admin/WebAdminController.php on line 343
+[12-Oct-2023 04:37:17 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\ProductController as ProductController because the name is already in use in /home/n170823s/public_html/cbdandcoffee.co.uk/routes/web.php on line 11
+[12-Oct-2023 04:37:55 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\ProductController as ProductController because the name is already in use in /home/n170823s/public_html/cbdandcoffee.co.uk/routes/web.php on line 11
+[12-Oct-2023 04:39:38 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\ProductController as ProductController because the name is already in use in /home/n170823s/public_html/cbdandcoffee.co.uk/routes/web.php on line 11
+[13-Oct-2023 10:13:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PaymentController::AuthPaymentEnvoice() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/PaymentController.php on line 201
+[13-Oct-2023 11:51:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\ProductController::index() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/Admin/ProductController.php on line 223
+[16-Oct-2023 09:15:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\ProductController::orders_view() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/Admin/ProductController.php on line 264
+[16-Oct-2023 10:06:45 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\AuthController::OrderDetail() in /home/n170823s/public_html/cbdandcoffee.co.uk/app/Http/Controllers/Auth/AuthController.php on line 295

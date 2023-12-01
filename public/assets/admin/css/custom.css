@@ -1,0 +1,159 @@
+.loading img{
+    width: 158px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+}
+.loading{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999999999999;
+    background: rgb(0 0 0 / 0.5);
+}
+
+ci_app_body::-webkit-scrollbar {
+  display: none;
+}
+.breadcrumb-line h6 {
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+  }
+  .card.wlcm h4 {
+    font-size: 50px;
+    padding: 30px 0;
+    font-weight: 600;
+  }
+  .card.wlcm {
+    border: 1px solid #015ab91c;
+    background: rgb(255 204 204 / 15%);
+  }
+  .card-header h6.card-title {
+    font-weight: 600;
+    padding-left: 10px;
+    font-size: 18px;
+}
+  .card.wlcm img {
+    border: 1px solid #f7f0f0;
+    border-radius: 5px;
+}
+.hide{display: none !important;}
+.validation-valid-label:empty{margin-bottom:30px !important;}
+.custom-error{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    display: block;
+    color: #ef5350;
+    position: relative;
+    padding-left: 1.625rem;
+}
+.custom-error:before {
+    content: "";
+    font-family: icomoon;
+    font-size: 1rem;
+    position: absolute;
+    top: 0.1875rem;
+    left: 0;
+    display: inline-block;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.dashboard .bg-teal-400 h4 {
+    color: #000;
+}
+.dashboard .bg-teal-400 a.btn {
+    background: #015ab9;
+    color: #fff !important;
+    min-width: 100px;
+    border: 0;
+}
+#navbar-footer {
+    background: #262424;
+}
+.bg-teal-400 {
+    background-color: #d7bfcb;
+}
+.bg-pink-400 {
+    background-color: #ec407a;
+}
+.bg-blue-400 {
+    background-color: #29b6f6;
+}
+.navbar span{
+    font-size: initial;
+}
+.error{
+    color: red;
+}
+.psw-eye i#Passwordtoggle {
+    position: absolute;
+    right: 13px;
+    top: 15px;
+}
+.sidebar-expand-md.sidebar-main .dropdown .dropdown-menu {
+    width: 100%;
+    margin: 0;
+    background: transparent;
+    box-shadow: none;
+    border: 0;
+    transform: translate3d(0px, 0px, 0px) !important;
+    position: unset !important;
+}
+.sidebar-expand-md.sidebar-main .dropdown .dropdown-menu a,.enq-drop a {
+    padding-left:30px !important;
+}
+.sidebar-expand-md.sidebar-main .sidebar-content .dropdown-toggle::after {
+    top: 2px;
+}
+.PasswordDetails .text-muted {
+    position: absolute;
+    top: 45px;
+    right: 10px;
+  }
+.dataTable, .dataTables_wrapper{ width: 100% !important;}
+.program-details .media.active{    background-color: #efeeff;}
+.program-details .media{margin-top:10px !important;}
+.form-group {
+    position: relative;
+    padding-bottom: 35px;
+    height: unset;
+    margin-bottom: 0;
+}
+.validation-error-label {
+    color: #ff0000 !important;
+    font-size: 14px;
+    left: 0;
+    bottom: 0;
+}
+.multiselect.btn-light {
+    height: 48px;
+}
+.multiselect-native-select .validation-error-label {
+    bottom: -38px;
+}
+a.nav-link.enq {
+    cursor: pointer;
+}
+#franchisee_order_modal .modal-body{overflow-x: scroll;height: 282px;}
+#franchisee_order_modal table td,#level_mapping_modal table td{font-size: 11px;
+    padding: 4px;}
+#franchisee_order_modal table tbody tr{cursor: pointer;}
+
+
+
+
+
+
+@media only screen and (mix-width: 768px) {
+.sidebar-main .sidebar-content{
+    left: 0!important;
+}
+.sidebar:not(.bg-transparent) .card:not([class*=bg-]):not(.fixed-top) {
+background-color: #3b3491!important;
+}
+}
