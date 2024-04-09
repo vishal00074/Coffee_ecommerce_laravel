@@ -36,8 +36,8 @@ jobs:
     - name: Connect with FTP
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server:"xpertideaitsolutions.com"
-        username: "xpertidea"
+        server:"ftp.xpertideaitsolutions.com"
+        username: "githubtesting@xpertideaitsolutions.com"
         password: "3KQujan799pk%%RF"
-        local-dir: '.' # Specify the directory you want to upload
-        remote-dir: 'gittesting' # Specify the remote directory you want to upload to
+        local-dir: '.'
+        remote-dir: '/' 
